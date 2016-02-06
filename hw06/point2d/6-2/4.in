@@ -1,0 +1,5 @@
+set x 7 9
+set y 5 4
+set z 1 2
+eval x * z
+quit

@@ -1,0 +1,6 @@
+a : 1 2 3 4 
+b : 0.5 1 2 
+c : aa bb ccc ddd 
+int a : 1 2 3 4 
+double b : 0.5 1 2 
+string c : aa bb ccc ddd 

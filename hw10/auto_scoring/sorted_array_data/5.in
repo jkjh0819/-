@@ -1,0 +1,14 @@
+string troll 7 computer science software hanyang university korea student
+find troll korea
+find troll corea
+int queen 7 -100 -50 -25 0 25 50 100
+int king 7 -99 -49 -24 1 26 51 99
+list
+double drogba 5 -2.9234 3.1415 0.000001 10.23212 10.23211
+double captainpark 13 1.0 2.0 3.0 -4.0 -5.0 -6.0 7.123123 -8.2322 9.234234 -10.999 11.34242143231 -12.121212 13.131313131313
+list
+find drogba 0.000001
+find captainpark 13.1313131313
+find captainpark 13.131313131313
+find king -99
+quit

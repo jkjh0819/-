@@ -1,0 +1,10 @@
+10 10
+add rect 4 4 3 3 *
+draw
+add tri_down 3 3 3 @
+draw
+add tri_up 5 7 3 #
+draw
+add diamond 3 4 2 -
+draw
+quit

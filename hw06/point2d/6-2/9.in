@@ -1,0 +1,6 @@
+set x 0 0
+set y 3 3
+eval x + y
+eval x * y
+eval x - y
+quit

@@ -1,0 +1,26 @@
+10 10
+resize 12 5
+resize 15 5
+add rect 10 2 4 4 *
+draw
+dump
+add tri_up 10 1 3 #
+draw
+add tri_up 12 2 5 @
+draw
+dump
+resize 10 7
+draw
+dump
+add tri_down 5 5 5 +
+draw
+dump
+delete 3
+draw
+add tri_down 5 5 5 +
+delete 2
+draw
+add rect 0 0 10 7 @
+add diamond 1 1 6 %
+draw
+quit

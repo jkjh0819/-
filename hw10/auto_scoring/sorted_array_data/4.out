@@ -1,0 +1,8 @@
+troll : computer hanyang korea science software student university 
+2
+-1
+queen : -100 -50 -25 0 25 50 100
+king : -99 -49 -24 1 26 51 99 
+int king : -99 -49 -24 1 26 51 99 
+int queen : -100 -50 -25 0 25 50 100 
+string troll : computer hanyang korea science software student university

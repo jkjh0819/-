@@ -1,0 +1,4 @@
+set x 7 9
+set y 5 4
+eval x + y
+quit

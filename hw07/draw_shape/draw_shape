@@ -1,0 +1,4 @@
+all : draw_shape
+
+draw_shape : draw_shape.cpp draw_shape_main.cpp
+	g++ -o draw_shape draw_shape.cpp draw_shape_main.cpp
